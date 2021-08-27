@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827738277090",
+    "project_id": "listedecourses-cd167",
+    "storage_bucket": "listedecourses-cd167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827738277090:android:9367794d182d5c55888abb",
+        "android_client_info": {
+          "package_name": "com.appcoursesredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827738277090-lgan0bs51ffg8tlpujdli8mjk76cjs97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKvGiH8devTq8KBpfmsvSHw6Pk0zCjROs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827738277090-lgan0bs51ffg8tlpujdli8mjk76cjs97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
